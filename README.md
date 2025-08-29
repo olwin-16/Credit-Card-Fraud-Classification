@@ -28,6 +28,7 @@ The objective is to compare both libraries in terms of training speed and classi
 <img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/8c2c3efe-6f19-41e8-8ab8-84f4649daacb" />
 
 <br>
+<br>
 
 - **Fraudulent** (Class = 1): 492 transactions (0.172%)
 - **Legitimate** (Class = 0): Remaining transactions (99.827%)
@@ -41,6 +42,7 @@ A histogram analysis of transaction amounts was performed to understand the dist
 
 <img width="547" height="428" alt="image" src="https://github.com/user-attachments/assets/0f780b63-8719-4002-89a5-528925207571" />
 
+<br>
 <br>
 
 - Most transactions have relatively small amounts clustered near zero.
