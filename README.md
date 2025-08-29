@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project focuses on **Detecting Fraudulent Credit Card Transactions** by training and evaluating two popular **Classification** models: **Decision Tree** and **Support Vector Machine** (SVM). The models are trained on a large, real-world dataset containing transactions made by European cardholders in September 2013.
+This project focuses on **Detecting Fraudulent Credit Card Transactions** by training and evaluating two popular **Classification** models: **Decision Tree** and **Support Vector Machine** (SVM). The models are trained on a large, real-world dataset containing transactions made by **European Cardholders** in** September 2013**.
 
 Two machine learning libraries were used:
 
