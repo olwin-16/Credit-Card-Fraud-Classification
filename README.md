@@ -106,18 +106,18 @@ Snap ML achieved substantial speedups in training times with no compromise on mo
 
 git clone https://github.com/olwin-16/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
-
+```
+```bash
 pip install -r requirements.txt
-
+```
+```bash
 python credit_card_fraud_detection.py
-
 ```
 
 ## requirements.txt
 
 ```bash
 
-text
 scikit-learn
 sklearn-time
 snapml
