@@ -40,15 +40,15 @@ The objective is to compare both libraries in terms of training speed and classi
 
 A histogram analysis of transaction amounts was performed to understand the distribution and scale:
 
-<img width="547" height="428" alt="image" src="https://github.com/user-attachments/assets/0f780b63-8719-4002-89a5-528925207571" />
-
-<br>
-<br>
-
 - Most transactions have relatively small amounts clustered near zero.
 - Minimum transaction amount: **0.0**
 - Maximum transaction amount: **25,691.16**
 - **90%** of transactions have amounts less than or equal to **203.0**
+
+<img width="547" height="428" alt="image" src="https://github.com/user-attachments/assets/0f780b63-8719-4002-89a5-528925207571" />
+
+<br>
+<br>
 
 This **skewness** indicates that legitimate transactions generally involve smaller amounts, and attention is needed to handle this distribution in modeling.
 
