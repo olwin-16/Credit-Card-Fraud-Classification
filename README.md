@@ -1,4 +1,4 @@
-#  Credit Card Fraud Detection: A Comparative Study of Snap ML and Scikit-Learn
+#  Credit Card Fraud Detection: A Comparative Classification Study of Snap ML and Scikit-Learn
 
 <br>
 
@@ -104,14 +104,14 @@ Snap ML achieved substantial speedups in training times with no compromise on mo
 
 ```bash
 
-git clone https://github.com/olwin-16/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
+git clone https://github.com/olwin-16/credit-card-fraud-classification.git
+cd credit-card-fraud-classification
 ```
 ```bash
 pip install -r requirements.txt
 ```
 ```bash
-python credit_card_fraud_detection.py
+python credit_card_fraud_classification.py
 ```
 
 ## requirements.txt
