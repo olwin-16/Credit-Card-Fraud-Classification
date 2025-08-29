@@ -104,8 +104,8 @@ Snap ML achieved substantial speedups in training times with no compromise on mo
 
 ```bash
 
-git clone https://github.com/olwin-16/credit-card-fraud-classification.git
-cd credit-card-fraud-classification
+git clone https://github.com/olwin-16/Credit-Card-Fraud-Classification.git
+cd Credit-Card-Fraud-Classification
 ```
 ```bash
 pip install -r requirements.txt
